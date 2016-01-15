@@ -11,10 +11,21 @@
 		<h2>Audience</h2>
 		<p>My audience is anyone looking to hire full stack developer or anyone looking for a developer of any kind</p>
 		<h3>Goal</h3>
-		<p>My goal with this website is to help me find employment does not matter what kind as long as it furthers my skills
-		as a developer.</p>
+		<p>My goal with this website is to help me find employment does not matter what kind as long as it furthers my skills as a developer.</p>
 		<h4>Persona </h4>
-		<p>Ray Narvaes Jr.<br> </p>
+		<ul>
+			<li> Narvaez Jr.</li>
+			<li>Male</li>
+			<li>Hispanic</li>
+			<li>27 year old </li>
+			<li>internet personality</li>
+			<li>computers</li>
+			<li>streaming services(twitch)</li>
+			<li>video/audio recorder </li>
+			<li>Boisterous</li>
+		</ul>
+		<p>Mr.Narvaez would view my site to see my skills while searching for someone to help him maintain his website and other services.  </p>
+		<p>Mr.Narvaez would be have issues maintain the website and might need some extra assistance with updating services and the website.</p>
 	</body
 
 </html
