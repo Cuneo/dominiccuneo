@@ -25,7 +25,6 @@
 			<li>Boisterous</li>
 		</ul>
 		<p>Mr.Narvaez would view my site to see my skills while searching for someone to help him maintain his website and other services.  </p>
-		<p>Mr.Narvaez would be have issues maintain the website and might need some extra assistance with updating services and the website.</p>
 	</body
 
 </html
