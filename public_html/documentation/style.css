@@ -1,9 +1,15 @@
 header {
-	background-color:rgba(0, 0, 0, 0.5)
+	background-color:rgba(0, 0, 0, 0.5);
+	margin: 20px 40px 10px 30px;
+	border: 120px;
+	padding: 20px 160px 15px 120px;
 }
 body{
-	background-color: rgba(0, 0, 0, 0.2)
+	background-color: rgba(0, 0, 0, 0.2);
 }
 footer {
-	background-color:rgba(0, 0, 0, 0.5)
+	background-color:rgba(0, 0, 0, 0.5);
+	margin: 20px 40px 10px 30px;
+	border: 120px;
+	padding: 20px 160px 15px 120px;
 }
