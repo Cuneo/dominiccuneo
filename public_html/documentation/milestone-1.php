@@ -8,25 +8,22 @@
 	<body>
 		<header> Welcome to my website </header>
 		<h1>Purpose</h1>
-				<p> This website's Purpose is to help me find some kind of gainful employment. Which will help me refine and
-				increase my skills making me more knowledgeable and marketable.  </p>
+				<p> This website's Purpose is to help me find some kind of gainful employment. Which will help me refine and increase my skills making me more knowledgeable and marketable.  </p>
 		<h2>Audience</h2>
 				<p>My audience is anyone looking to hire full stack developer or anyone looking for a developer of any kind</p>
 		<h3>Goal</h3>
 				<p>My goal with this website is to help me find employment.The type of job is inconsequential so long as it refine and increase my skills  as a developer.  </p>
 		<h4>Persona </h4>
-		<ul>
-			<li> Narvaez Jr.</li>
-			<li>Male</li>
-			<li>Hispanic</li>
-			<li>27 year old </li>
-			<li>internet personality</li>
-			<li>computers</li>
-			<li>streaming services(twitch)</li>
-			<li>video/audio recorder </li>
-			<li>Boisterous</li>
+		<img src="https://images.rapgenius.com/11bf295f3344348cd8a107097bb1c84f.500x276x1.png">
+		<ul>Geoff Ramsey
+		<li> White</li>
+			<li>40 years old</li>
+			<li>voice actor and comedian</li>
+			<li>co-founder of Rooster teeth and Achievementhunter </li>
+			<li>Internet personality</li>
 		</ul>
-		<p>Mr.Narvaez would view my site to see my skills while searching for someone to help him maintain his website and other services.  </p>
+
+		<p>A Geoff once said "If you make enough bad decision once in a while things will work out for you." </p>
 		<footer>Contact information  and Interests <table>
 				<tr>
 					<td><a href="http://roosterteeth.com/">RoosterTeeth</a></td>
