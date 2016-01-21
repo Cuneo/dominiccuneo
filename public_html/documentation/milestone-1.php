@@ -25,9 +25,8 @@
 		<p> Geoff and his employees produce videos called let's plays on YouTube. They produce several videos a week and all his employees are idiots. Along with that he does voice acting for several show from Roosterteeth.  </p>
 		<p>Geoff uses a variety of programs and technology to record videos and audio. He has to put the videos up on the websites and maintain the sites.</p>
 		<p>A Geoff once said "If you make enough bad decisions once in a while things will work out for you." </p>
-		<ul>
-			<li> </li>
-		</ul>
+		<h5> Use Case</h5>
+		<p>He would  come to  my site looking for  someone competent in IT and other various technology.Ideally Geoff would use my site once and hire me permanently. If he  does not however he could use my site to view my skills and services I offer.He could contract me out anytime to help when he has issue with the website or to maintain it indefinitely.I could do this remotely or I could go to him.   </p>
 		<footer>Contact information  and Interests <table>
 				<tr>
 					<td><a href="http://roosterteeth.com/">RoosterTeeth</a></td>
