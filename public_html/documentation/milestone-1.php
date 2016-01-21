@@ -23,7 +23,11 @@
 			<li>Internet personality</li>
 		</ul>
 		<p> Geoff and his employees produce videos called let's plays on YouTube. They produce several videos a week and all his employees are idiots. Along with that he does voice acting for several show from Roosterteeth.  </p>
-		<p>A Geoff once said "If you make enough bad decision once in a while things will work out for you." </p>
+		<p>Geoff uses a variety of programs and technology to record videos and audio. He has to put the videos up on the websites and maintain the sites.</p>
+		<p>A Geoff once said "If you make enough bad decisions once in a while things will work out for you." </p>
+		<ul>
+			<li> </li>
+		</ul>
 		<footer>Contact information  and Interests <table>
 				<tr>
 					<td><a href="http://roosterteeth.com/">RoosterTeeth</a></td>
