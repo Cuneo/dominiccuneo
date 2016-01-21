@@ -22,7 +22,7 @@
 			<li>co-founder of Rooster teeth and Achievementhunter </li>
 			<li>Internet personality</li>
 		</ul>
-
+		<p> Geoff and his employees produce videos called let's plays on YouTube. They produce several videos a week and all his employees are idiots. Along with that he does voice acting for several show from Roosterteeth.  </p>
 		<p>A Geoff once said "If you make enough bad decision once in a while things will work out for you." </p>
 		<footer>Contact information  and Interests <table>
 				<tr>
