@@ -17,3 +17,26 @@ This is a good start, but the Use Case is missing. Please finish up the Use Case
 
 #### Edits/Suggestions
 - Your HTML code looks really good overall. The only tiny issue I see is the closing &lt;/html&gt; tag is incomplete. Nice work on CSS!
+
+### Milestone 2&alpha; Feedback
+&#10004; Create a sitemap outlining the pages you plan to include in your PWP.
+
+&#10008; Document a brief plan or strategy for your content that will support the overall purpose and goal of the site.
+
+&#10004; Map out a simple interaction flow that details the steps a user must take to successfully use your site to acheive the goal.
+
+&#10004; Create a mobile and desktop/laptop wireframe for each page layout.
+
+Nice job on the wireframes. I'd like to know a little more about what you'd like to do with the images on the right side of the desktop layout.
+
+My suggestion for your navigation menu on mobile is to have it hidden, and a toggle button that will either create a dropdown menu or a slideout menu from the side. Having that many links going across the top pf a phone screen probably won't fit very well.
+
+Your sitemap only really needs to list this one page, since this is only a 1-page layout. Easy!
+
+The interaction flow could be a little more clear, but I see what you're getting at.
+
+I would like to see more detail in your content strategy. That would actually help me to better understand what you want to do with the images for instance. That way we can figure out the best way to develop that functionality. For example, is there a 3rd party plugin or Bootstrap component that would be a good option for this section?
+
+Your HTML looks good.
+
+Your Milestone passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You're clear to begin development. Be careful with that Navbar, and talk to me about what you want to do with those images. Take a look at the default Bootstrap navbar (which we will be looking at in the next Bootstrap lecture).
