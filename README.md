@@ -37,6 +37,8 @@ The interaction flow could be a little more clear, but I see what you're getting
 
 I would like to see more detail in your content strategy. That would actually help me to better understand what you want to do with the images for instance. That way we can figure out the best way to develop that functionality. For example, is there a 3rd party plugin or Bootstrap component that would be a good option for this section?
 
-Your HTML looks good.
+- A simple contact form is a required component to PWP - so plan on adding one. We'll be using php and Swiftmailer for this.
+
+- Your HTML looks good.
 
 Your Milestone passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You're clear to begin development. Be careful with that Navbar, and talk to me about what you want to do with those images. Take a look at the default Bootstrap navbar (which we will be looking at in the next Bootstrap lecture).
