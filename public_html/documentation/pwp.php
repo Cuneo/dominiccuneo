@@ -31,7 +31,7 @@
 		<title> My web page </title>
 	</head>
 	<body>
-		<h1>Hello world<h1>
+		<h1>Hello world</h1>
 				<p> yep </p>
 	</body
 
