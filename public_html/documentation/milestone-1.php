@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<link type="text/css" rel="stylesheet" href="style.css"/>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
 		<meta charset="utf-8"/>
 		<title> Dominic Cuneo </title>
 	</head>
