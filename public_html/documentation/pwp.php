@@ -30,11 +30,42 @@
 
 		<title> My web page </title>
 	</head>
-	<body>
+	<body class="sfooter">
+		<div class="sfooter-content">
 		<header> Header </header>
 		<h1>Hello world</h1>
+			<div class="row">
+				<div class="col-md-6">
+					<div class="content-box"><p>this if row 2</p>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="content-box"><p>this if row 2</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+
+				<div class="col-md-3">
+					<div class="content-box"><p>this if row 3</p>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="content-box"><p>this if row 3</p>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="content-box"><p>this if row 3</p>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="content-box"><p>this if row 3</p>
+					</div>
+				</div>
+			</div>
 				<p> yep </p>
 		<footer> Footer</footer>
+			</div>
 	</body
 
 </html>
