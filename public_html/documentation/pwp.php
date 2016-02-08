@@ -31,8 +31,10 @@
 		<title> My web page </title>
 	</head>
 	<body>
+		<header> Header </header>
 		<h1>Hello world</h1>
 				<p> yep </p>
+		<footer> Footer</footer>
 	</body
 
 </html>
