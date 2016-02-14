@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8"/> <!-- the head is for meta data -->
+		<link rel="stylesheet" type="text/css" href="stylesheet.css">
 
 		<!-- IE rendering mode -->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -11,7 +12,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"/>
 
 		<!-- Optional theme -->
-		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous" />
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous" />
 
 		<!-- load custom stlye sheet here -->
 
@@ -28,45 +29,59 @@
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
-		<title> My web page </title>
+		<title> weeeeeeeeeeeee </title>
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
-		<header> Header </header>
-		<h1>Hello world</h1>
-			<div class="row">
-				<div class="col-md-6">
-					<div class="content-box"><p>this if row 2</p>
+			<header>
+				<div class="container">
+					This is the header
+				</div>
+			</header>
+			<main>
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="content-box"><p>this if row 1</p>
+							</div>
+						</div>
 					</div>
 				</div>
-				<div class="col-md-6">
-					<div class="content-box"><p>this if row 2</p>
-					</div>
-				</div>
-			</div>
-			<div class="row">
+				<div class="row">
+					<div class="col-md-8">
+						<div class="content-box"><p>
 
-				<div class="col-md-3">
-					<div class="content-box"><p>this if row 3</p>
+							</p>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="content-box"><p>this if row 2</p>
+						</div>
 					</div>
 				</div>
-				<div class="col-md-3">
-					<div class="content-box"><p>this if row 3</p>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="content-box"><p>this if row 3</p>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="content-box"><p>this if row 3</p>
-					</div>
-				</div>
-			</div>
-				<p> yep </p>
-		<footer> Footer</footer>
-			</div>
+				<div class="row">
 
-	</body
-
+					<div class="col-md-3">
+						<div class="content-box"><p>this if row 3</p>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="content-box"><p>this if row 3</p>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="content-box"><p>this if row 3</p>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="content-box"><p>this if row 3</p>
+						</div>
+					</div>
+				</div>
+			</main>
+		</div>
+		<footer>
+			<div class="container">
+				this is the footer</div> </footer>
+	</body>
 </html>
