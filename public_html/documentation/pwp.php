@@ -49,8 +49,8 @@
 				</div>
 				<div class="row">
 					<div class="col-md-8">
-						<div class="content-box"><p>
-
+						<div class="content-box">
+							<h3>About me </h3><p> My name is Dominic Cuneo I was born in Nashville, Tennessee June,1994. I move to Alabama where I went to High School and College. I attended the University of Alabama at Birmingham majoring in psychology. After college I moved  to Louisiana and  became a welder.
 							</p>
 						</div>
 					</div>
