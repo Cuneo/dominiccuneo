@@ -35,7 +35,17 @@
 		<div class="sfooter-content">
 			<header>
 				<div class="container">
-					This is the header
+					<nav class="navbar navbar-default">
+						<div class="container-fluid">
+							<div class="navbar-header">
+								<a class="navbar-brand" href="#">
+									<img alt="Brand" src="images/logo.jpg">
+								</a>
+							</div>
+						</div>
+					</nav>
+
+
 				</div>
 			</header>
 			<main>
