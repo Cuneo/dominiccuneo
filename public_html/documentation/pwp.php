@@ -50,12 +50,16 @@
 				<div class="row">
 					<div class="col-md-8">
 						<div class="content-box">
-							<h3>About me </h3><p> My name is Dominic Cuneo I was born in Nashville, Tennessee June,1994. I move to Alabama where I went to High School and College. I attended the University of Alabama at Birmingham majoring in psychology. After college I moved  to Louisiana and  became a welder.
+							<h3>About me </h3><p> My name is Dominic Cuneo I was born in Nashville, Tennessee June,1994. I moved to Alabama where I went to High School and College. I attended the University of Alabama at Birmingham majoring in psychology. After college I moved to Hammond Louisiana and  became a welder.Now I live in Albuquerque New Mexico as a full stack web developer.
 							</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="content-box"><p>this if row 2</p>
+							<img src="http://www.visitmusiccity.com/Content/cms/uploads/SkylineSunset.jpg"><br>
+							<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRD8OaM4QIblAV09arN2PLbyUAdGj6UptAfC1zYpZ2D6jBECmvh"><br>
+							<img src="http://3.bp.blogspot.com/_mkQODQfOMic/TD9hEi_DU1I/AAAAAAAAAGU/3q948hrwqkw/s1600/UAB2.png"><br>
+							<img src="http://www.louisiana-destinations.com/images/postcards/hammond/hammond-louisiana-greetings.jpg">
 						</div>
 					</div>
 				</div>
