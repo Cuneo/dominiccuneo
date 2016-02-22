@@ -38,8 +38,13 @@
 					<nav class="navbar navbar-default">
 						<div class="container-fluid">
 							<div class="navbar-header">
+								<ul class="nav nav-tabs">
+									<li role="presentation" class="active"><a href="#">Home</a></li>
+									<li role="presentation"><a href="#">Profile</a></li>
+									<li role="presentation"><a href="#">Messages</a></li>
+								</ul>
 								<a class="navbar-brand" href="#">
-									<img alt="Brand" src="images/logo.jpg">
+
 								</a>
 							</div>
 						</div>
@@ -51,16 +56,16 @@
 			<main>
 				<div class="container">
 					<div class="row">
-						<div class="col-md-12">
-							<div class="content-box"><p>this if row 1</p>
-							</div>
-						</div>
+
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-8">
 						<div class="content-box">
-							<h3>About me </h3><p> My name is Dominic Cuneo I was born in Nashville, Tennessee June,1994. I moved to Alabama where I went to High School and College. I attended the University of Alabama at Birmingham majoring in psychology. After college I moved to Hammond Louisiana and  became a welder.Now I live in Albuquerque New Mexico as a full stack web developer.
+							<h3>About me </h3><p> My name is Dominic Cuneo I was born in Nashville, Tennessee June,1994. I moved to Alabama where I went to High School and College. I attended the University of Alabama at Birminngham majoring in psychology. After college I moved to Hammond Louisiana and  became a welder.Now I live in Albuquerque New Mexico as a full stack web developer.
+							</p>
+							<p>
+								I joined the Cnm DeepDive Coders to learn how to become a full stack web developer. There I gained skills in PHP, mySQL, JavaScript, AngularJS, HTML, and CSS. I can create and manage a mySQL database. Aided by php and html I have the ablity to create beautiful and dynamic website tailoring the site to your exacting specifications.
 							</p>
 						</div>
 					</div>
