@@ -43,8 +43,7 @@
 									<li role="presentation"><a href="#">Profile</a></li>
 									<li role="presentation"><a href="#">Messages</a></li>
 								</ul>
-								<a class="navbar-brand" href="#">
-
+								<a class="navbar-brand" href="#"> integritas artem semper
 								</a>
 							</div>
 						</div>
@@ -71,10 +70,10 @@
 					</div>
 					<div class="col-md-4">
 						<div class="content-box"><p>this if row 2</p>
-							<img src="http://www.visitmusiccity.com/Content/cms/uploads/SkylineSunset.jpg"><br>
+							<img src="http://www.visitmusiccity.com/Content/cms/uploads/SkylineSunset.jpg">
 							<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRD8OaM4QIblAV09arN2PLbyUAdGj6UptAfC1zYpZ2D6jBECmvh"><br>
-							<img src="http://3.bp.blogspot.com/_mkQODQfOMic/TD9hEi_DU1I/AAAAAAAAAGU/3q948hrwqkw/s1600/UAB2.png"><br>
-							<img src="http://www.louisiana-destinations.com/images/postcards/hammond/hammond-louisiana-greetings.jpg">
+							<img src="http://www.uab.edu/utc/PICS/UABlogo.gif"><br>
+							<img src="images/hammondlouisianagreetings.jpg">
 						</div>
 					</div>
 				</div>
@@ -101,6 +100,13 @@
 		</div>
 		<footer>
 			<div class="container">
-				this is the footer</div> </footer>
+				<table> Contact me
+					<tr>
+						<td>Email: cuneo94@gmail.com</td>
+					</tr>
+					<tr>
+						<td>phone: (256)-595-2687</td>
+					</tr>
+				</table></div> </footer>
 	</body>
 </html>

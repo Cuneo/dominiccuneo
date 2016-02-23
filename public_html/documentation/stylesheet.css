@@ -32,3 +32,6 @@ font-size: 21px;
 main{
 	background-color: lightcyan;
 }
+.container-fluid{
+	background-color: black;
+}
