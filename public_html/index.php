@@ -106,7 +106,7 @@
 		<footer>
 			<div class="container">
 				<table> Contact me
-							<tr>
+					<tr>
 						<td>Email: cuneo94@gmail.com</td>
 					</tr>
 					<tr>
