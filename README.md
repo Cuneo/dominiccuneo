@@ -42,3 +42,23 @@ I would like to see more detail in your content strategy. That would actually he
 - Your HTML looks good.
 
 Your Milestone passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You're clear to begin development. Be careful with that Navbar, and talk to me about what you want to do with those images. Take a look at the default Bootstrap navbar (which we will be looking at in the next Bootstrap lecture).
+
+### Milestone 2b Feedback
+Take a look at the notes we went over below, and check in with me or Skyler this week. After some cleanup, you should be ready to deploy to ASO next week.
+
+Your Milestone 2b passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/)
+
+#### Edits &amp; Suggestions
+- Fix directory structure: create index.php, css directory 
+- add contact form
+- clean up the html and CSS, a bit more styling for professional presentation
+- move your custom stylesheet down after bootstrap css (after line 15)
+- use grid system for footer info layout
+
+Set up ASO Host:
+- Go over https://bootcamp-coders.cnm.edu/class-materials/php/email/, add composer.json and mailer.php
+- enable shell access - chat live support and request them to enable this
+- Add your public SSH key (CPanel, SSH Access)
+- Add an email account, and add an email forwarder if you like :)
+- Create a new deployment in PhpStorm that uploads to ASO, and upload your site there.
+
