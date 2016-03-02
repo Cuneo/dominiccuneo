@@ -2,7 +2,6 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8"/> <!-- the head is for meta data -->
-		<link rel="stylesheet" type="text/css" href="stylesheet.css">
 
 		<!-- IE rendering mode -->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -15,6 +14,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous" />
 
 		<!-- load custom stlye sheet here -->
+		<link rel="stylesheet" type="text/css" href="stylesheet.css">
 
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -105,13 +105,14 @@
 		</div>
 		<footer>
 			<div class="container">
-				<table> Contact me
-					<tr>
-						<td>Email: cuneo94@gmail.com</td>
-					</tr>
-					<tr>
-						<td>phone: (256)-595-2687</td>
-					</tr>
-				</table></div> </footer>
+				<div class="row">
+					<div class="col-md-12"> Contact Info</div>
+
+				</div>
+				<div class="row">
+					<div class="col-md-6">Email: cuneo94@gmail.com</div>
+					<div class="col-md-6">Phone: (256)-595-2687</div>
+					</div>
+				</div>
 	</body>
 </html>
