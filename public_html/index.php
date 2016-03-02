@@ -14,7 +14,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous" />
 
 		<!-- load custom stlye sheet here -->
-		<link rel="stylesheet" type="text/css" href="stylesheet.css">
+		<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
 
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -29,7 +29,7 @@
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
-		<title> weeeeeeeeeeeee </title>
+		<title> God FUck SHit </title>
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
@@ -91,12 +91,11 @@
 						</div>
 						<div class="col-md-5">
 							<div class="content-box">
-								<img src="http://www.visitmusiccity.com/Content/cms/uploads/SkylineSunset.jpg"><br>
-								<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRD8OaM4QIblAV09arN2PLbyUAdGj6UptAfC1zYpZ2D6jBECmvh">
-								<img src="http://www.uab.edu/utc/PICS/UABlogo.gif"><br>
+								<img src="images/nashville.jpg"><br>
+								<img src="images/arab.jpg">
+								<img src="images/uablogo.jpg"><br>
 								<img src="images/hammondlouisianagreetings.jpg">
 								<img src="images/caesar.jpg">
-								<
 							</div>
 						</div>
 					</div>
@@ -104,15 +103,17 @@
 			</main>
 		</div>
 		<footer>
+			<div class="work">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12"> Contact Info</div>
-
 				</div>
 				<div class="row">
 					<div class="col-md-6">Email: cuneo94@gmail.com</div>
 					<div class="col-md-6">Phone: (256)-595-2687</div>
 					</div>
 				</div>
+				</div>
+			</footer>
 	</body>
 </html>
