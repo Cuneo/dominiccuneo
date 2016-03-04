@@ -92,10 +92,10 @@
 						<div class="col-md-5">
 							<div class="images">
 								<div class="col-md-12">
-									<div style="float: left;"><img src="images/nashvilleNew.jpg"  class="img-circle" alt="Nashville"></div>
-									<div style="float: right;"><img src="images/arabNew.jpg" class="img-rounded" alt= arab ></div>
-										<div style="float: left;"><img src="images/uab.jpg" class="img-circle" alt= uab></div>
-										<div style="float: right;"><img src="images/hammond-louisiana-greetingsNew.jpg" class="img-rounded" alt= hammond></div>
+									<div style="float: left;"><img src="images/nashville.jpg"  class="img-circle" alt="Nashville"></div>
+									<div style="float: right;"><img src="images/arab.jpg" class="img-rounded" alt= arab ></div>
+										<div style="float: left;"><img src="images/uablogo.jpg" class="img-circle" alt= uab></div>
+										<div style="float: right;"><img src="images/hammond.jpg" class="img-rounded" alt= hammond></div>
 											<div style="float: left;"><img src="images/bill.jpg" class="img-circle" alt=bill></div>
 									</div>
 							</div>
