@@ -90,12 +90,14 @@
 							</div>
 						</div>
 						<div class="col-md-5">
-							<div class="content-box">
-								<img src="images/nashville.jpg"><br>
-								<img src="images/arab.jpg">
-								<img src="images/uablogo.jpg"><br>
-								<img src="images/hammondlouisianagreetings.jpg">
-								<img src="images/caesar.jpg">
+							<div class="row">
+								<div class="col-xs-12">
+								<img src="images/nashville.jpg"  class="img-rounded" alt="Nashville">
+								<img src="images/arab.jpg" class="img-rounded" alt= arab>
+								<img src="images/uablogo.jpg" class="img-circle" alt= uab>
+								<img src="images/hammondlouisianagreetings.jpg" class="img-rounded" alt= hammond>
+								<img src="images/caesar.jpg" class="img-rounded" alt=bill>
+									</div>
 							</div>
 						</div>
 					</div>
