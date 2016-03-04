@@ -90,13 +90,13 @@
 							</div>
 						</div>
 						<div class="col-md-5">
-							<div class="row">
-								<div class="col-xs-12">
-								<img src="images/nashville.jpg"  class="img-rounded" alt="Nashville">
-								<img src="images/arab.jpg" class="img-rounded" alt= arab>
-								<img src="images/uablogo.jpg" class="img-circle" alt= uab>
-								<img src="images/hammondlouisianagreetings.jpg" class="img-rounded" alt= hammond>
-								<img src="images/caesar.jpg" class="img-rounded" alt=bill>
+							<div class="images">
+								<div class="col-md-12">
+									<div style="float: left;"><img src="images/nashvilleNew.jpg"  class="img-circle" alt="Nashville"></div>
+									<div style="float: right;"><img src="images/arabNew.jpg" class="img-rounded" alt= arab ></div>
+										<div style="float: left;"><img src="images/uab.jpg" class="img-circle" alt= uab></div>
+										<div style="float: right;"><img src="images/hammond-louisiana-greetingsNew.jpg" class="img-rounded" alt= hammond></div>
+											<div style="float: left;"><img src="images/bill.jpg" class="img-circle" alt=bill></div>
 									</div>
 							</div>
 						</div>
