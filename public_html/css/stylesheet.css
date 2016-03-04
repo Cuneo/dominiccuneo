@@ -24,13 +24,15 @@ header {
 p{
 font-size: 21px;
 }
-main{
-	background-color:lavender;
-}
+
+
 .container-fluid{
 	background-color: rgba(0, 0, 0, 0.9);
 }
 .work{
 	background-color: black;
 }
-
+.everything{
+	background-image: url("../images/metal.jpg");
+	background-repeat: repeat repeat;
+}

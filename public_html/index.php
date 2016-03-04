@@ -33,6 +33,7 @@
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
+			<div class="everything">
 			<header>
 				<nav class="navbar navbar-inverse">
 					<div class="container-fluid">
@@ -117,5 +118,6 @@
 				</div>
 				</div>
 			</footer>
+			</div>
 	</body>
 </html>
