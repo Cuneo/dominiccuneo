@@ -51,16 +51,18 @@
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="navigation">
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav">
 								<li class="active"><a href="https://www.linkedin.com/in/dominic-cuneo-374521114?trk=nav_responsive_tab_profile">Linkedin <span class="sr-only">(current)</span></a></li>
 								<li><a href="http://www.uab.edu/home/">UAB</a></li>
 								<li><a href="http://www.visitmusiccity.com/">Nashville</a></li>
+								<li><a href="https://github.com/">GitHub</a></li>
 								<li class="dropdown">
 									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Interests <span class="caret"></span></a>
 									<ul class="dropdown-menu">
 										<li><a href="http://roosterteeth.com/">RoosterTeeth</a></li>
-										<li><a href="#">Another action</a></li>
+										<li><a href="http://imgur.com/">Imgur</a></li>
 										<li><a href="#">Something else here</a></li>
 										<li role="separator" class="divider"></li>
 										<li><a href="#">Separated link</a></li>
@@ -69,6 +71,7 @@
 									</ul>
 								</li>
 							</ul>
+						</div>
 						</div><!-- /.navbar-collapse -->
 					</div><!-- /.container-fluid -->
 				</nav>
@@ -93,11 +96,13 @@
 						<div class="col-md-5">
 							<div class="images">
 								<div class="col-md-12">
+									<ul>
 									<img src="images/nashville.jpg"  class="img-circle" alt="Nashville">
 									<img src="images/arab.jpg" class="img-rounded" alt= arab >
 										<img src="images/uablogo.jpg" class="img-circle" alt= uab>
 										<img src="images/hammond.jpg" class="img-rounded" alt= hammond>
 											<img src="images/bill.jpg" class="img-circle" alt=bill>
+										</ul>
 									</div>
 							</div>
 						</div>

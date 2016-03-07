@@ -40,3 +40,9 @@ h2{
 	background-repeat: repeat repeat;
 	font-family: "Century Gothic", "Times New Roman", monospace, sans-serif;
 }
+ul{
+	text-align: right;
+}
+.navigation{
+	text-align: right;
+}
