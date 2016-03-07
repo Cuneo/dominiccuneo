@@ -85,7 +85,7 @@
 									I joined the Cnm DeepDive Coders to become a full stack web developer. There I gained skills in PHP, mySQL, JavaScript, AngularJS, HTML, and CSS as well as basic cyber security. I can create and manage a mySQL database. Aided by php and mySQL for the back end and html,css,angularjs,and javascript. I have the ablity to create beautiful and dynamic website tailoring the site to your exacting specifications.
 								</p>
 								<p> I was a welder for a year in Louisiana during that time I became skilled in MIG welding (Metal Inert Gas) and learned how to  use a oxygen acetylene torch. I welded together steel scaffolding planks and welded barricades for the government. I learned to use the  oxygen acetylene torch to cut out various shapes and used them to make a variety needed objects and as personalized gifts.</p>
-								<h3>My interests</h3>
+								<h2>My interests</h2>
 								<p>I am a avid gamer on my time off. During my time as a welder i grew quite fond of it and if I can will weld for fun and practice.
 									I love to read book my preferences are  science fiction and fantasy but i'll read just about anything. I like watching Football games and MMA fights. Listening to comedians has been one of my favorite thing since I was a little kid.</p>
 							</div>

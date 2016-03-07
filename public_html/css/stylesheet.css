@@ -22,9 +22,12 @@ header {
 	color: white;
 }
 p{
-font-size: 21px;
+	font-size: 21px;
+	color: black;
 }
-
+h2{
+	color: black;
+}
 
 .container-fluid{
 	background-color: rgba(0, 0, 0, 0.9);
@@ -33,6 +36,7 @@ font-size: 21px;
 	background-color: black;
 }
 .everything{
-	background-image: url("../images/metal.jpg");
+	background-image: url("../images/newMetal.jpg");
 	background-repeat: repeat repeat;
+	font-family: "Century Gothic", "Times New Roman", monospace, sans-serif;
 }
