@@ -53,6 +53,8 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="navigation">
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+							<div class="pullright">
 							<ul class="nav navbar-nav">
 								<li class="active"><a href="https://www.linkedin.com/in/dominic-cuneo-374521114?trk=nav_responsive_tab_profile">Linkedin <span class="sr-only">(current)</span></a></li>
 								<li><a href="http://www.uab.edu/home/">UAB</a></li>
@@ -71,6 +73,7 @@
 									</ul>
 								</li>
 							</ul>
+								</div>
 						</div>
 						</div><!-- /.navbar-collapse -->
 					</div><!-- /.container-fluid -->
@@ -97,6 +100,7 @@
 							<div class="images">
 								<div class="col-md-12">
 									<ul>
+										<img src="images/me.jpg"  class="img-rounded" alt="ME">
 									<img src="images/nashville.jpg"  class="img-circle" alt="Nashville">
 									<img src="images/arab.jpg" class="img-rounded" alt= arab >
 										<img src="images/uablogo.jpg" class="img-circle" alt= uab>
