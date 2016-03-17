@@ -96,6 +96,7 @@
 						<div class="row">
 							<div class="col-md-7">
 								<div class="content-box">
+									<h1> I am working on a new personal website so please excuse the  current one</h1>
 									<h2>About me </h2>
 									<p> My name is Dominic Cuneo I was born in Nashville, Tennessee June,1994. I moved to Arab
 										Alabama where I went to High School and College. I attended the University of Alabama at
